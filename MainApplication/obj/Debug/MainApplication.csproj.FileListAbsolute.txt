@@ -1,0 +1,12 @@
+C:\Users\steve\source\repos\Assignment4\MainApplication\bin\Debug\MainApplication.exe.config
+C:\Users\steve\source\repos\Assignment4\MainApplication\bin\Debug\MainApplication.exe
+C:\Users\steve\source\repos\Assignment4\MainApplication\bin\Debug\MainApplication.pdb
+C:\Users\steve\source\repos\Assignment4\MainApplication\bin\Debug\DataAccess.dll
+C:\Users\steve\source\repos\Assignment4\MainApplication\bin\Debug\DataAccess.pdb
+C:\Users\steve\source\repos\Assignment4\MainApplication\obj\Debug\MainApplication.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Assignment4\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+C:\Users\steve\source\repos\Assignment4\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\Assignment4\MainApplication\obj\Debug\MainApplication.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Assignment4\MainApplication\obj\Debug\MainApplication.csproj.CopyComplete
+C:\Users\steve\source\repos\Assignment4\MainApplication\obj\Debug\MainApplication.exe
+C:\Users\steve\source\repos\Assignment4\MainApplication\obj\Debug\MainApplication.pdb
